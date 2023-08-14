@@ -1,5 +1,13 @@
 # @pandacss/fixture
 
+## 0.11.1
+
+### Patch Changes
+
+- @pandacss/preset-base@0.11.1
+- @pandacss/preset-panda@0.11.1
+- @pandacss/types@0.11.1
+
 ## 0.11.0
 
 ### Patch Changes
